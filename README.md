@@ -1,4 +1,4 @@
-Go the this link to view the project : https://eastvantage-assignment.pages.dev/
+Go to this link to view the project : https://eastvantage-assignment.pages.dev/
 
 # Getting Started with Create React App
 
